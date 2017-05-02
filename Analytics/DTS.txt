@@ -1,0 +1,1 @@
+After installation open cmd and GitBash (desktop shortcut maybe)
